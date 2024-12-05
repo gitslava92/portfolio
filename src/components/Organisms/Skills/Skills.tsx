@@ -12,7 +12,7 @@ const getSkills = (tc: (msg: string) => string) => {
     {
       id: 0,
       title: tc("key skills"),
-      text: "Javascript, Typescript, ReactJS, VueJS, HTML, CSS, SASS, MaterialUI, Styled Components, GraphQl, Apollo, REST, WebSocket, Axios, Redux, Redux Toolkit, Redux-Saga, Git, Docker, Webpack, Vite, StoryBook",
+      text: "Typescript, ReactJS, Apollo GraphQl, REST, WebSocket, Axios, MaterialUI, Styled Components, Redux Toolkit, Redux-Saga, Git, Docker, Webpack, Vite, StoryBook, i18n, HTML, CSS, SASS, Javascript, VueJS, Vuetify",
     },
     {
       id: 1,
