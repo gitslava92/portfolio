@@ -12,30 +12,9 @@ interface ExperienceProps {
 export const experiences = [
   {
     id: 0,
-    title: "Frontend Developer",
-    subtitle: "sourсe, ltd",
-    period: ["2022-07-01T00:00:00Z", "present"],
-    text: "Experiense.FourthWork.Text",
-  },
-  {
-    id: 1,
-    title: "Frontend Developer",
-    subtitle: "freelance",
-    period: ["2022-05-01T00:00:00Z", "2022-07-01T00:00:00Z"],
-    text: "Experiense.ThirdWork.Text",
-  },
-  {
-    id: 2,
-    title: "Frontend Developer",
-    subtitle: "sourсe, ltd",
-    period: ["2021-04-01T00:00:00Z", "2022-05-01T00:00:00Z"],
-    text: "Experiense.SecondWork.Text",
-  },
-  {
-    id: 3,
     title: "Frontend developer",
     subtitle: "sourсe, ltd",
-    period: ["2020-12-01T00:00:00Z", "2021-04-01T00:00:00Z"],
+    period: ["2020-12-01T00:00:00Z", "present"],
     text: "Experiense.FirstWork.Text",
   },
 ];

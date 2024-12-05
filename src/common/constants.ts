@@ -12,13 +12,6 @@ export enum CONTACTS_LINKS {
   TELEGRAM = "webslava92",
 }
 
-export enum SOCIALS_LINKS {
-  LINKED_IN = "linkedIn",
-  TWITTER = "twitter",
-  GITHUB = "gitHub",
-  vk = "vk",
-}
-
 export const PATTERNS = {
   EMAIL:
     /^(([^<>()[\]\\.,;:\s@"]+(\.[^<>()[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/,

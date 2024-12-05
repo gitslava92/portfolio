@@ -60,7 +60,7 @@ const getMonthUnit = (months: number) => {
 }
 
 export const getExperience = (t: (msg: string) => string) => {
-  const start = dayjs(experiences[3].period[0]);
+  const start = dayjs(experiences[0].period[0]);
   const end = dayjs();
 
   const years = end.diff(start, 'year');
