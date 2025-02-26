@@ -56,7 +56,7 @@ const getPortfolio = (tc: (msg: string) => string): PortfolioItem[] => {
         "a marketplace where buyers and sellers can safely make transactions."
       ),
       stack:
-        "React, Typescript, Graphql, Apollo, WebSocket, React-Router, React-Hook-Form, TanStack Table, MaterialUI, styled Components, HTML, SCSS, Javascript",
+        "React, Typescript, Graphql, Apollo, WebSocket, React-Router, React-Hook-Form, TanStack Table, MaterialUI, styled Components, ApexCharts, i18n, HTML, SCSS, Javascript",
       img: [
         "./portfolio/profital/profital-1.jpg",
         "./portfolio/profital/profital-2.jpg",
